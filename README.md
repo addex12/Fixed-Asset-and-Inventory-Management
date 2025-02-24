@@ -63,11 +63,6 @@ Feel free to check out the [GitHub Issues for this project](https://github.com/s
 Please see the [upgrading documentation](https://snipe-it.readme.io/docs/upgrading) for instructions on upgrading Snipe-IT.
 
 ------
-### Translations!
-
-Please see the [translations documentation](https://snipe-it.readme.io/docs/translations) for information about available languages and how to add translations to Snipe-IT.
-
------
 
 ### Libraries, Modules & Related Projects
 
