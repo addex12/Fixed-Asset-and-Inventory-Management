@@ -1,5 +1,6 @@
 ![snipe-it-by-grok](https://github.com/snipe/snipe-it/assets/197404/b515673b-c7c8-4d9a-80f5-9fa58829a602)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/808ecde45fac4f0ba7532bce1e0d5341)](https://app.codacy.com/gh/addex12/Fixed-Asset-and-Inventory-Management?utm_source=github.com&utm_medium=referral&utm_content=addex12/Fixed-Asset-and-Inventory-Management&utm_campaign=Badge_Grade)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/snipe-it/localized.svg)](https://crowdin.com/project/snipe-it) [![Docker Pulls](https://img.shields.io/docker/pulls/snipe/snipe-it.svg)](https://hub.docker.com/r/snipe/snipe-it/) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/553ce52037fc43ea99149785afcfe641)](https://app.codacy.com/gh/snipe/snipe-it/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![Tests](https://github.com/snipe/snipe-it/actions/workflows/tests.yml/badge.svg)](https://github.com/snipe/snipe-it/actions/workflows/tests.yml)
 [![All Contributors](https://img.shields.io/badge/all_contributors-331-orange.svg?style=flat-square)](#contributing) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/yZFtShAcKk)
 
